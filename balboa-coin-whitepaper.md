@@ -132,7 +132,8 @@ Over time the Balboa Coin Trust would accumulate a larger surplus, rolling over 
 #### Year 12
 
 Public debt was $23.466 billion in 2017. Naively assuming public debt and canal profits stay relatively equal, the Balboa Coin Trust will have one dollar for each dollar of public debt by year 12.
-Government Budget
+
+### Government Budget
 
 Theoretically, the government budget impact could be neutral, if 100% of the Balboa Coin Trust was lent to them as bonds at zero interest. In the 3% bond yield scenario described above, that 3% would be paid by the government to the Balboa Coin Trust, another neutral action for the public sector as a whole.
 
