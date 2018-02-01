@@ -43,7 +43,7 @@ Glossary
 
 
 
-##ABSTRACT
+## ABSTRACT
 
 Balboa Coin (abbreviated XBC) is a digital token that captures the value of trade infrastructure like canals, roads, and ports. Though the long-term plan is to abstract and expand to cover a larger region, this paper will propose an initial model with only Panama and the Panama Canal.
 
