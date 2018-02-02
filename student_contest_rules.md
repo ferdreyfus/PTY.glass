@@ -1,71 +1,78 @@
-## Contest Rules
+## Reglas del Concurso
 
-1. Contest closes on February 12, 2018.
+1. El concurso cierra el 12 de Febrero de 2018.
 
-2. Open to students from all Panamanian universities, public and private. All career fields welcome.
+2. Está abierto para todas las universidades panameñas privadas y públicas. Todos los campos
+profesionales son acogidos con beneplácito.
 
-3. Must be 18 years or older.
+3. Debe tener 18 años o más.
 
-4. Write a paper of 500-600 words entitled, *“How I Think Technology Can Increase Transparency and
-Diminish Corruption in Panama.”* 
-The paper will have two parts: In the first part, describe the three top problems you think are 
-caused by the lack of transparency in Panama. In the second part, describe how you think technology 
-can be used to improve transparency and diminish corruption in Panama. Think
-through the problems and how technology might be the solution.
+4. Escriba un ensayo de 500 a 600 palabras con el título, *“¿Cómo creo que la tecnología puede
+aumentar la transparencia y disminuir la corrupción en Panamá?”* 
+El ensayo tendrá dos partes: En la primera parte, describa tres problemas principales que usted cree que son
+provocados por la falta de transparencia en Panamá. En la segunda parte, describa como usted
+cree que la tecnología pueda usarse para mejorar la transparencia y disminuir la corrupción en
+Panamá. Piense en los problemas y como la tecnología podría ser la solución.
 
-5. Submit two copies: one in Spanish and one in English, in either Notepad or Markdown format
-http://daringfireball.net/projects/markdown/syntax#html to ptyglass@gmail.com or via git to
-https://github.com/PanaFintech/panama-glass no later than midnight on February 12, 2018. No
-other formatting will be accepted, including PDF or Microsoft Word.
+5. Envíe dos copias: Una en español y una en inglés, en ambos formatos de bloc de notas o formato
+Markdown http://daringfireball.net/projects/markdown/syntax#html a ptyglass@gmail.com o por
+git https://github.com/PanaFintech/panama-glass a más tardar a la medianoche del 12 de Febrero de 2018.
+No se aceptarán otros formatos, incluyendo PDF o Microsoft Word.
 
-6. Include your name, ID number (cédula) and e-mail at the top of the paper. A photo is optional.
+6. Incluya su nombre, número de cédula, y correo electrónico arriba del ensayo. Una foto es opcional.
 
-7. You must use endnotes for any references.
+7. Debe usar notas finales para cualquier referencia.
 
-8. The paper needs to include two paragraphs:
-a. First paragraph to describe the three top problems that you think are caused due to the lack of
-transparency and corruption in Panama
-b. Second paragraph to describe how do you think technology can improve the transparency
-and diminish corruption in Panama to solve those problems.
+8. El ensayo necesita incluir dos párrafos:
+a. En el primer párrafo, describa tres problemas principales que usted piensa que se producen debido a
+la falta de transparencia y corrupción en Panamá.
+b. En el segundo párrafo, describa como usted cree que la tecnología puede mejorar la trasparencia y
+disminuir la corrupción en Panamá para resolver estos problemas.
 
-9. All students who submit a paper into the contest will receive a personal invitation to attend a free,
-networking event with a guest at the Blockchain Embassy on Avenida Balboa, including a presentation
-by Ira Miller. Invitations with specifics about the event will be sent upon receipt of submission.
+9. Todos los estudiantes que envíen un ensayo al concurso recibirán una invitación personal a un evento
+gratuito de networking con un invitado en la [Blockchain Embassy](https://www.embassypty.com/es/) en la Avenida Balboa.,
+que incluye una presentación de [Ira Miller](iramiller.com). Las invitaciones con los detalles sobre el evento se enviarán con la recepción del correo.
 
-10. A panel will read the papers, and choose the winners. The panel will consider:
-a. Writing style and grammar use in both English and Spanish
-b. Knowledge of both transparency and technology
-c. Imagination and creativity of the technological solutions proposed
+10. Un comité leerá los ensayos y escogerá los ganadores. El comité considerará:
+a. El estilo de redacción y el uso de la gramática en español e inglés.
+b. El conocimiento de la transparencia y la tecnología
+c. La imaginación y la creatividad de las soluciones tecnológicas propuestas.
 
-11. All students will be informed via e-mail about the results of the contest no later than February 1.
+11. Informaremos los resultados del concurso a los estudiantes por correo electrónico a más tardar el 1 de
+febrero.
 
-12. Winners must be available to attend the Panama Glass Summit and all related activities in Panama City
-from February 22-25th, 2018.
+12. Los ganadores deben estar disponibles para asistir a la Cumbre Panama Glass y a todas las
+actividades relacionadas en la Ciudad de Panamá del 22 al 25 de Febrero, de 2018.
 
-13. Panama Glass Summit will have all the rights to the paper and the ideas included. The whitepaper
-and ideas can be used freely during the event.
+13. La cumbre Panama Glass tendrá todos los derechos de los artículos y las ideas que incluye. El informe
+técnico y las ideas se pueden usar libremente durante el evento.
 
-14. Winners agree to assist in all the summit sessions and help the organizers, as needed.
+14. Los ganadores están de acuerdo con asistir a todas las sesiones de la cumbre y ayudar a los
+organizadores, si es necesario.
 
-15. By summiting the paper, you acknowledge and agree to these “contest rules.”
+15. Al enviar el artículo, usted acepta y está de acuerdo con estas “reglas del concurso.”
 
-16. Papers may be submitted via email to ptyglass@gmail.com or via Git to
-https://github.com/PanaFintech/panama-glass. Explanation on the [pull request here](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+16.Los ensayos se enviarán por correo electrónico a ptyglass@gmail.com o por Git a
+https://github.com/PanaFintech/panama-glass. La guia sobre la [solicitud de integración (pull
+request) se encuentra aquí](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
-## Prizes
-1. First prize: Cryptocurrencies valued at $400.00 USD
-2. Second prize: Cryptocurrencies valued at $300.00 USD
-3. Third prize: Cryptocurrencies valued at $200.00 USD
-4. Other prizes: Cryptocurrencies valued at $80.00 USD
+## Premios:
+1. Primer premio: Criptomonedas valoradas en $400.00 USD
+2. Segundo premio: Criptomonedas valoradas en $300.00 USD
+3. Tercer premio: Criptomonedas valoradas en $200.00 USD
+4. Otros premios: Criptomonedas valoradas en $80.00 USD
 
-### All chosen winners will receive:
-1. Free attendance to all the event activities.
-2. Certificates as a winner of the contest, assistant to the organizer committee, and co-author of the
-whitepaper.
-3. Your name placed in the final whitepapers, products of the Panama Glass Summit 2018, to be published
-in academic magazines, newspapers, social networks, and distributed widely on the internet.
-4. Free attendance to the preparation seminar “How Blockchain Technologies are Solving World Problems.”
-The seminar will have a total of 24-hours. The sessions will take place at night, from 6 pm to 10 pm, from
-January 29th – February 5th including certificate of attendance.
-5. Direct contact with Blockchain, Smart contract and Tech-transparency experts.
-# Apply today! Don´t miss this great opportunity! 
+### Todos los ganadores escogidos recibirán:
+1. Asistencia gratis a todas las actividades de los eventos.
+2. Certificados como un ganador del concurso, asistente para el comité organizador, y coautor del informe
+técnico.
+3. Su nombre colocado en los informes técnicos finales, productos de la Cumbre Panama Glass, ser
+publicado en revistas académicas, periódicos, redes sociales, y distribuido ampliamente en el Internet.
+4. Asistencia gratuita a la preparación del seminario “Cómo las tecnologías de cadenas de bloques están
+solucionando problemas mundiales.” El seminario tendrá un total de 24-horas. Las sesiones tendrán lugar
+en la noche, de 6pm a 10 pm, del 29 de Enero al 5 de Febrero incluyendo el certificado de asistencia.
+5. Contacto directo con expertos en Cadenas de bloques, Contrato inteligente y transparencia tecnológica.
+# ¡Envíe su solicitud hoy! ¡No pierda esta gran oportunidad!
+
+
+
