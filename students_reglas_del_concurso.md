@@ -52,7 +52,7 @@ organizadores, si es necesario.
 
 15. Al enviar el artículo, usted acepta y está de acuerdo con estas “reglas del concurso.”
 
-16.Los ensayos se enviarán por correo electrónico a ptyglass@gmail.com o por Git a
+16. Los ensayos se enviarán por correo electrónico a ptyglass@gmail.com o por Git a
 https://github.com/PanaFintech/panama-glass. La guia sobre la [solicitud de integración (pull
 request) se encuentra aquí](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
