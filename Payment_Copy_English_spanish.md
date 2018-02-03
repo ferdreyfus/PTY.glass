@@ -24,8 +24,6 @@ Método de pago:
 Fecha de pago:
 
 
-
-
 ## Spanish Copy International Bank
 
 
