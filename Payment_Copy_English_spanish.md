@@ -14,7 +14,7 @@ Precio: $300.00
 Paquete VIP - Acceso ilimitado de 4 días
 Precio: $1,500.00
 
-Una vez realizado el pago, por favor contacte ptyglass@gmail.com con una captura de pantalla or foto de el recibo de pago, junto con los siguientes detalles:
+Una vez realizado el pago, por favor contacte info@pty.glass con una captura de pantalla or foto de el recibo de pago, junto con los siguientes detalles:
 Nombre/s:
 Correo/s:
 Número/s de contacto:
@@ -47,7 +47,7 @@ Precio: $315.00*
 Paquete VIP - Acceso ilimitado de 4 días
 Precio: $1,515.00*
 
-Una vez realizado el pago, por favor contacte ptyglass@gmail.com con una captura de pantalla or foto de el recibo de pago, junto con los siguientes detalles:
+Una vez realizado el pago, por favor contacte info@pty.glass con una captura de pantalla or foto de el recibo de pago, junto con los siguientes detalles:
 Nombre/s:
 Correo/s:
 Número/s de contacto:
@@ -75,7 +75,7 @@ Price: $300.00
 VIP Package - 4 Day All Access Pass
 Price: $1,500.00
 
-Once payment has been made, please contact ptyglass@gmail.com with a screenshot or picture of the payment receipt, along with the following details:
+Once payment has been made, please contact info@pty.glass with a screenshot or picture of the payment receipt, along with the following details:
 Your Name/s:
 Contact email/s:
 Contact Phone number/s:
@@ -108,7 +108,7 @@ Price: $1,515.00*
 
 *$15.00 Extra fee is added for international swift transfers.
 
-Once payment has been made, please contact ptyglass@gmail.com with a screenshot or picture of the payment receipt, along with the following details:
+Once payment has been made, please contact info@pty.glass with a screenshot or picture of the payment receipt, along with the following details:
 Your Name/s:
 Contact email/s:
 Contact Phone number/s:
