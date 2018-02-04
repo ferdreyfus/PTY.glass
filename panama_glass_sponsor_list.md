@@ -1,36 +1,15 @@
-Sponsors for Pty.glass profiling.
+# Sponsor list for Pty.glass 
 
 
-#Spanish sponsors segment
+## Gold Sponsors
+1. 300 E - 300e.holdings
+2. Guld
 
-Gold Sponsors
-*Insert name and Link to Logo here.*
+## Silver Sponsors
+1. TigoCTM
+2. 200 Social 
+3. Panama Blockchain Embassy
 
-Silver Sponsors
-
-
-
-Bronze Sponsors
-
-
-
-#English sponsors segment
-
-Patrocinadores Oro
-
-
-
-Patrocinadores Plata
-
-
-
-Patrocinadores Bronce
-
-
-
-
-
-
-
-
+## Bronze Sponsors
+1. Tower Bank
 
