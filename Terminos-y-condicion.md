@@ -3,7 +3,7 @@
 ## POLITICA DE PRIVACIDAD
 
 Estamos comprometidos con la protección de la privacidad de todas aquellas personas que
-visiten [www.pty.glass](pty.glass) (PTY Glass) (la "Página Web"). Por favor, lea las siguientes
+visiten https://pty.glass (PTY Glass) (la "Página Web"). Por favor, lea las siguientes
 políticas de privacidad donde se explica cómo utilizamos y protegemos su información.
 Al visitar y/o inscribirse y/o solicitar servicios en esta Página Web, usted acepta y donde se
 le requiera, consiente que los datos facilitados sean recabados, utilizados y transmitidos
@@ -57,7 +57,7 @@ que puedan ser de su interés (por correo, teléfono, mensajes de móvil (p. ej.
 y/o correo electrónico).
 2.5. Si usted no desea que utilicemos sus datos para estos fines o cambiara de opinión sobre
 ser contactado en el futuro, por favor, póngase en contacto con nosotros utilizando los datos
-de contacto por correo electrónico a: ptyglass@gmail.com y/o modificando su perfil
+de contacto por correo electrónico a: info@pty.glass y/o modificando su perfil
 convenientemente.
 2.6. Por favor, tenga en cuenta que al realizar comentarios y opiniones sobre la Página Web
 y sobre los servicios, usted consiente en que incluyamos dichos comentarios y opiniones en
@@ -117,7 +117,7 @@ está dando y los nombres de las personas a los que se hayan facilitado.
 objetar cualquier tratamiento de los mismos.
 5.4. Para obtener información y ejercitar sus derechos de acceso, rectificación, cancelación
 y oposición al tratamiento de los mismos, por favor contacte con nosotros utilizando los
-datos de contacto o un correo a ptyglass@gmail.com
+datos de contacto o un correo a info@pty.glass .
 5.5. En todo caso, Pty.glass conservará de forma confidencial y cumpliendo la obligación
 de secreto de todos los datos personales recabados y contenidos en sus archivos según lo
 dispuesto en la normativa vigente en materia de protección de datos y de carácter personal.
@@ -129,7 +129,7 @@ Web y, cuando corresponda, a través de notificación por correo electrónico.
 
 7. Contacto
 7.1. Todos los comentarios, consultas y solicitudes relativas a nuestra utilización de la
-información sobre usted serán bienvenidos y deberán remitirse a ptyglass@gmail.com
+información sobre usted serán bienvenidos y deberán remitirse a info@pty.glass
 
 
 
@@ -141,7 +141,7 @@ PTY Glass, acepta exclusivamente devoluciones en las siguientes situaciones:
 1. Usted podrá realizar una devolución de su pedido durante los primeros 15 días naturales
 desde la fecha de recepción del mismo. Para ello, 
 
-2. Usted podrá devolver su boleto, para ello debe enviar un correo a ptyglass@gmail.com, 
+2. Usted podrá devolver su boleto, para ello debe enviar un correo a info@pty.glass, 
 máximo 2 días antes del inicio del evento (20 de Febrero de 2018) con copia de su identificación y recibo de pago. 
 Cualquier costo de transferencia bancaria correra por parte del comprador.
 
